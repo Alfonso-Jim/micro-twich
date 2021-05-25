@@ -15,6 +15,12 @@
       "description": "A nice russian town",
       "userId": "104886362455303471523",
       "id": 3
+    },
+    {
+      "title": "Warsaw",
+      "description": "A city of watchers...",
+      "userId": "104886362455303471523",
+      "id": 4
     }
   ]
 }
